@@ -1,19 +1,20 @@
 ## [Termux](https://termux.com/)
 Please note that root access is required.  
 
-#### Manually
-**Installing requirements**
+#### Installation Steps
+
+**Requirements**
  ```
  pkg install -y root-repo
  ```
  ```
  pkg install -y git tsu python wpa-supplicant pixiewps iw openssl
  ```
-**Getting OneShot**
+**Download DoubleShot**
  ```
  git clone --depth 1 https://github.com/tanvirr007/OneShot OneShot
  ```
-#### Running
+#### Running Command
  ```
  sudo python OneShot/oneshot.py -i wlan0 --iface-down -K
  ```
