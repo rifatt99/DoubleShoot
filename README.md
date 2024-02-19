@@ -1,7 +1,7 @@
 ## [Termux](https://termux.com/)
 Please note that root access is required.  
 
-#### Installation Steps
+## Installation Steps
 
 **Requirements**
  ```
