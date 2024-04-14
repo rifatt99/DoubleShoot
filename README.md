@@ -19,6 +19,15 @@ Please note that root access is required.
  sudo python OneShot/oneshot.py -i wlan0 --iface-down -K
  ```
 
+## For Linux Distribution 🐧
+
+- [Debian/Ubuntu](https://github.com/tanvirr007/OneShot?tab=readme-ov-file#debianubuntu)
+
+- [Arch Linux](https://github.com/tanvirr007/OneShot?tab=readme-ov-file#arch-linux)
+
+- [Alpine Linux](https://github.com/tanvirr007/OneShot?tab=readme-ov-file#alpine-linux)
+
+
 # Usage
 ```
  oneshot.py <arguments>
